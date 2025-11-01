@@ -4,7 +4,7 @@ Athena Bench provides cybersecurity benchmarking tasks for evaluating language m
 
 ## Run the Mini Benchmark
 
-1. **Install dependencies (and Git LFS)**
+1. **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
