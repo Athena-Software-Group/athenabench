@@ -1,6 +1,6 @@
-# Athena Bench
+# AthenaBench
 
-Athena Bench provides cybersecurity benchmarking tasks for evaluating language models on a shared set of threat-intelligence workloads. This guide focuses on running the bundled **mini** benchmark, which contains lightweight subsets of each task for quick iteration.
+AthenaBench provides cybersecurity benchmarking tasks for evaluating language models on a shared set of CTI tasks. This guide focuses on running the bundled **mini** benchmark, which contains lightweight subsets of each task for quick iteration.
 
 ## Run the Mini Benchmark
 
