@@ -1,0 +1,65 @@
+models:
+  gpt-4o:
+    type: openai
+    name: gpt-4o
+  gpt-5:
+    type: openai
+    name: gpt-5
+  gpt-5-search:
+    type: openai
+    name: gpt-5-search
+  gpt-4:
+    type: openai
+    name: gpt-4
+  gemini2.5:
+    type: gemini
+    name: gemini-2.5-pro
+  gemini2.5-flash:
+    type: gemini
+    name: gemini-2.5-flash
+  llama-3-8B:
+    type: huggingface
+    name: meta-llama/Llama-3.1-8B-Instruct
+  llama3-70B:
+    type: huggingface
+    name: meta-llama/Meta-Llama-3-70B-Instruct
+  llama3.3-70B:
+    type: huggingface
+    name: meta-llama/Llama-3.3-70B-Instruct
+  llama-4-maverick:
+    type: huggingface
+    name: meta-llama/Llama-4-Maverick-17B-128E-Instruct
+  qwen3-4B:
+    type: huggingface
+    name: Qwen/Qwen3-4B-Instruct-2507
+  qwen3-8B:
+    type: huggingface
+    name: Qwen/Qwen3-8B
+  qwen3-14B:
+    type: huggingface
+    name: Qwen/Qwen3-14B
+  Llama-Primus-Merged:
+    type: huggingface
+    name: Llama-Primus-Merged
+  dummy:
+    type: dummy
+    name: dummy
+tasks:
+  MCQ3k: benchmark/athena-cti-mcq-3k.jsonl
+  ATE: benchmark/athena-cti-ate.jsonl
+  RCM: benchmark/athena-cti-rcm.jsonl
+  RMS: benchmark/athena-cti-rms.jsonl
+  VSP: benchmark/athena-cti-vsp.jsonl
+  TAA: benchmark/athena-cti-taa.jsonl
+  
+default_eval_tasks:
+  - MCQ3k
+  - ATE
+  - RCM
+  - RMS
+  - VSP
+  - TAA
+
+vsp_mad_denominator: 7.7
+
+predictions_dir: runs
