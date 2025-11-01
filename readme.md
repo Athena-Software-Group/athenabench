@@ -7,10 +7,7 @@ Athena Bench provides cybersecurity benchmarking tasks for evaluating language m
 1. **Install dependencies (and Git LFS)**
    ```bash
    pip install -r requirements.txt
-   git lfs install
-   git lfs pull
    ```
-   Git LFS ensures the pre-packaged mini datasets and example prediction runs sync correctly.
 
 2. **Configure models and credentials** in `athena_eval/config.yaml`. Each entry specifies a provider (`openai`, `gemini`, `huggingface`, or `dummy`) and model name. API keys can be placed in the environment or a `.env` file that is auto-loaded. Example:
    ```
