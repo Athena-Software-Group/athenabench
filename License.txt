@@ -1,0 +1,79 @@
+Athena Security Group Academic Research License (Non-Commercial Use Only)
+
+Copyright © 2025 Athena Security Group, LLC. All rights reserved.
+
+
+1. Grant of Permission
+
+Permission is hereby granted, free of charge, to any individual or organization obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, merge, and distribute the Software for academic research and educational purposes only, subject to the conditions below.
+
+This license explicitly prohibits any commercial use of the Software or derivative works thereof without the prior written consent of Athena Security Group.
+
+
+2. Conditions of Use
+
+Use of the Software is permitted only under the following conditions:
+
+Attribution: Appropriate credit must be given to Athena Security Group in any publications, derivative works, or presentations using the Software.
+Citation example:
+
+“This research utilized software developed by Athena Security Group.”
+
+Non-Commercial Use:
+The Software may not be used, in whole or in part, for any commercial, proprietary, or revenue-generating purposes, including but not limited to:
+
+Sale, licensing, or distribution for profit;
+
+Incorporation into commercial products or services;
+
+Use in the provision of consulting, SaaS, or data analysis services for a fee.
+
+Modification and Redistribution:
+Redistribution of modified versions of the Software must retain this license text in full and must clearly indicate that changes were made.
+
+No Warranty:
+The Software is provided “as is,” without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+
+3. Commercial Licensing
+
+Commercial use of this Software, or any portion thereof, requires a separate license agreement.
+To obtain a commercial license, please contact:
+
+Athena Security Group
+Attn: Licensing Department
+📧 info@athenasecuritygrp.com
+🌐 www.athenasecuritygroup.ai
+
+
+4. Termination
+
+Any violation of the above terms automatically terminates all rights granted under this license.
+
+
+5. Governing Law
+
+This license shall be governed by and construed in accordance with the laws of the State of Florida, United States of America, without regard to its conflict of law provisions.
+
+
+6. Summary (Non-Binding)
+
+✅ Allowed:
+
+Academic research
+
+Educational use
+
+Internal experimentation
+
+Non-commercial collaboration
+
+🚫 Not Allowed:
+
+Sale or sublicensing
+
+Integration into commercial software
+
+Use in paid services or products
+
+End of License
