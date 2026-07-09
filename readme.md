@@ -72,6 +72,7 @@ python -m athena_eval.evaluate --mini --model gpt-4o --task RCM
 | Llama 3-70b-Instruct | 78.9 | 31.6 | 56.7 | 11.1 | 63.8 | 22.0 | 44.0 |
 | Llama 3.3-70b-Instruct | 81.4 | 30.4 | 60.0 | 11.1 | 70.1 | 26.0 | 46.5 |
 | Llama-Primus-Merged | 76.3 | 33.8 | 56.6 | 6.6 | 71.9 | 17.0 | 43.7 |
+| Qwen3-Coder-Next-MLX-8bit | 82.5 | 42.8 | 62.4 | 8.0 | 80.2 | 18.0 | 49.0 |
 
 ### Mini Benchmark
 
@@ -89,6 +90,7 @@ python -m athena_eval.evaluate --mini --model gpt-4o --task RCM
 | Llama 3-70b-Instruct | 81.0 | 37.0 | 54.5 | 10.9 | 63.4 | 24.0 | 45.1 |
 | Llama 3.3-70b-Instruct | 81.7 | 44.0 | 59.0 | 11.5 | 69.7 | 22.0 | 48.0 |
 | Llama-Primus-Merged | 79.7 | 32.0 | 51.0 | 6.4 | 71.8 | 18.0 | 43.1 |
+| Qwen3-Coder-Next-MLX-8bit | 84.0 | 45.0 | 59.0 | 9.6 | 79.4 | 20.0 | 49.5 |
 
 ## Star History
 
